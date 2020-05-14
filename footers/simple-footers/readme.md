@@ -1,1 +1,1 @@
-Ez egy egyszeru labjegyzet. Gyakorlo feladat.
+Ez egy egyszeru labjegyzet. Gyakorlo feladat. Ez egy valtozas.
