@@ -1,1 +1,1 @@
-Ez egy egyszerû lábjegyzet.
+Ez egy egyszeru labjegyzet.
