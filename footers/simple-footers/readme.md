@@ -1,1 +1,1 @@
-Ez egy egyszeru labjegyzet.
+Ez egy egyszeru labjegyzet. Gyakorlo feladat.
