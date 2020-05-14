@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>Simple-footer</h1>
-  <img src="simple-footer.png">
+  <img src="common-components/footers/simple-footers/simple-footer.png">
 
 </body>
 </html>
